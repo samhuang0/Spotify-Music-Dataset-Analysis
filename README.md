@@ -1,1 +1,1 @@
-# Spotify
+In this project, I visualized music tracks data from the Kaggle Spotify datasets, which contain more than 170 thousand tacks from 30,000 artists over the last 100 years. This notebook has essential data exploration analysis and also tries to find out how music has evolved across the years. Due to the limitation of file upload in Github, this repository contains a PDF version of iPython notebook(hided input), a plain code version of notebook, a race chart animation GIF file and serveral example music track records. 
